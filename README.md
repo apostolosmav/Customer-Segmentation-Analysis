@@ -59,7 +59,7 @@ The analysis starts with two features (**Annual Income** and **Spending Score**)
 ## Results
 
 - **Optimal number of clusters (2D):** 5
-- **Optimal number of clusters (3D):** 6 or 7
+- **Optimal number of clusters (3D):** 4 to 7
 
 **Cluster Profiles (3D):**
 - Cluster 0: Older, medium income, medium spending
